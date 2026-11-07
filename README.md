@@ -22,3 +22,8 @@ How to run:
 4. Run the main Python file "DECISION.py".
  
 Screenshots:
+- Title Screen: ![Title Screen](screenshots/TitleScreen_Screenshot.png)
+- Menu Screen: ![Menu Screen](screenshots/MenuScreen_Screenshot.png)
+- Map1: ![Map1](screenshots/Map1_Screenshot.png)
+- Map2: ![Map2](screenshots/Map2_Screenshot.png)
+- Map3: ![Map3](screenshots/Map3_Screenshot.png)
