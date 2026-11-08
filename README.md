@@ -16,7 +16,7 @@ Technologies:
 - Object-Orientated Programming
 
 How to run:
-1. Download repository.
+1. Download or clone repository.
 2. Install Python.
 3. Install Pygame using "pip install pygame".
 4. Run the main Python file "DECISION.py".
